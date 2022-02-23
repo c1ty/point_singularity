@@ -1,0 +1,84 @@
+# essential
+Just Enough Items
+Mouse Tweaks
+CraftTweaker
+ModTweaker
+Just Enough Resources
+CoFH Core
+FTB Quests
+FTB Backups
+FTB Library
+Item Filters
+Baubles
+
+
+
+
+# gameplay & info
+Controlloing
+Journey Map
+Apple Skin
+Enchantment Descriptions
+Fast Leaf Decay
+Better Advancements
+Toast Control
+FTB Ultimine
+FTB Chunks
+SwingThroughGrass
+Polymorph (Forge)
+KleeSlabs
+
+
+# lag reduction / performance
+Clumps
+Fast Workbench
+Fast Furnace
+Foam Fix
+AI Improvements
+
+
+# base content
+Quark
+Waystones
+Iron Chests
+Nature's Compass
+Storage Drawers
+Comforts (Forge)
+Ender Storage
+YUNG's Better Mineshafts (Forge)
+Apotheosis
+Dynamic Surroundings
+Repurposed Structures
+
+
+# tech
+Thermal Foundation
+Thermal Expansion
+Thermal Innovation
+Mekanism
+Mekanism Generators
+Industrial Foregoing
+Create
+Applied Energistics
+
+
+# magic
+Botania
+
+# wilderness
+Mowzie's Mobs
+Towers of the Wild
+Biomes o' Plenty
+Twilight Forest
+Aquaculture 2
+
+
+# misc
+Torchmaster
+OpenBlocks Elevator
+Building Gadgets
+Morpheus
+Decorative Blocks
+Bad Wither no Cookie - Reloaded
+Mod Name Tooltip
+Nether Portal Fix

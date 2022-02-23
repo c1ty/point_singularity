@@ -1,0 +1,12 @@
+{
+    "copper": {
+        "mod_prefixes": [
+            "thermal",
+            "create",
+            "mekanism",
+            "projectred-core",
+            "projectred-exploration"
+        ],
+        "preferred": "thermal"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "copper",
+    "ores": [
+        "create:copper_ore",
+        "mekanism:copper_ore",
+        "thermal:copper_ore",
+        "projectred-exploration:copper_ore"
+    ],
+    "ingots": [
+        "create:copper_ingot",
+        "mekanism:ingot_copper",
+        "thermal:copper_ingot",
+        "projectred-core:copper_ingot"
+    ],
+    "blocks": [
+        "create:copper_block",
+        "mekanism:block_copper",
+        "thermal:copper_block",
+        "projectred-exploration:copper_block"
+    ],
+    "nuggets": [
+        "create:copper_nugget",
+        "mekanism:nugget_copper",
+        "thermal:copper_nugget"
+    ]
+}
